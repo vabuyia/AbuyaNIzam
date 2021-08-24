@@ -2,8 +2,8 @@
 
 	
 		body {
-			background-color: #05c46b;
-			font-family: Verdana;
+			background-color: #56568F;
+			font-family: 'Times New Roman', Times, serif;
 			text-align: center;
 		}
 
@@ -13,7 +13,7 @@
 			max-width: 500px;
 			margin: 50px auto;
 			padding: 30px 20px;
-			box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+			box-shadow: 2px 5px 10px green;
 		}
 
 		
@@ -31,7 +31,7 @@
 		.form-control input,
 		.form-control select,
 		.form-control textarea {
-			border: 1px solid #777;
+			border: 1px solid white;
 			border-radius: 2px;
 			font-family: inherit;
 			padding: 10px;
@@ -49,7 +49,7 @@
 		
 		button {
 			background-color: rgb(185, 173, 230);
-			border: 1px solid #777;
+			border: 1px solid red;
 			border-radius: 2px;
 			font-family: inherit;
 			font-size: 21px;

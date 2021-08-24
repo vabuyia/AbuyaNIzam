@@ -9,11 +9,12 @@
 
 		
 		form {
-			background-color: #fff;
+			background-color: #222244;
 			max-width: 500px;
 			margin: 50px auto;
 			padding: 30px 20px;
 			box-shadow: 2px 5px 10px green;
+			color: white;
 		}
 
 		

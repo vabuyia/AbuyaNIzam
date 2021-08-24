@@ -13,13 +13,14 @@
 		h4{
 			font-style: italic;
 			color: white;
+	
 		}
 		form {
 			background-color: #222244;
 			max-width: 500px;
 			margin: 50px auto;
 			padding: 30px 20px;
-			box-shadow: 2px 5px 10px green;
+			border-radius: 3px;
 			color: white;
 		}
 
@@ -55,8 +56,8 @@
 
 		
 		button {
-			background-color: green;
-			border: 1px solid green;
+			background-color: #37AF65;
+			border: 1px solid #37AF65;
 			border-radius: 2px;
 			font-family: inherit;
 			font-size: 21px;
